@@ -1,4 +1,5 @@
-# livro de receitas:book:
+# projeto de desenvolvimento git/github
 
-- ovo frito
-- 
+Repositório para resgistro de evolução propria de aprendizado diario.
+
+
