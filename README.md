@@ -1,5 +1,7 @@
-# POO com Java
+# Desenvolvimento Mobile
 
-Repositório para resgistro de evolução propria de aprendizado diario.
+repositorio para criação de projeto de desenvolvimento mobile.
+usando o Framework Ionic.
+
 
 
